@@ -2,7 +2,8 @@
 body{
 	background-color:#66fcf1;
   font-size:200%;
-  background-image: url(); 
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3B_I38ZRAIB_PfQqkxEaTQCtQepUT5y1u9Ue2Umg4zoclM-1T&usqp=CAU");
+  background-size:cover; 
 }
 ul {
   list-style-type: none;
